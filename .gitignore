@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Aseprite backups and temporaries
+*.aseprite-bak
+*.ase-bak
+~*.aseprite
+~*.ase
+
+# Exported spritesheets / renders (commit only deliberate exports)
+# Uncomment if you want to track PNGs; leave commented to exclude bulk exports
+# *.png
+
+# Large raw exports you don't need in history
+*.gif
+*.apng
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
