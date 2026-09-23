@@ -12,7 +12,7 @@
 
 # Exported spritesheets / renders (commit only deliberate exports)
 # Uncomment if you want to track PNGs; leave commented to exclude bulk exports
-# *.png
+*-preview.png
 
 # Large raw exports you don't need in history
 *.gif
