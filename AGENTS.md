@@ -14,6 +14,7 @@ pixel-art-practice/
 ├── pixel-art-tutorial.md   # 教程参考（只增不删正文）
 ├── exercise-plan.md        # 12 周练习计划模板（只增不删正文）
 ├── progress.md             # 进度记录（agent 可自由修改）
+├── preview.sh              # .aseprite → PNG 导出工具
 ├── week-01/                # 第 1 周练习作品
 ├── week-02/
 └── …
@@ -70,9 +71,19 @@ pixel-art-practice/
 
 ---
 
-## 图片分析
+## 作品检查流程
 
-当 `week-XX/` 目录下存在 `.png` 文件时，agent 可以：
+`.aseprite` 是二进制文件，无法直接读取。检查前必须先导出 PNG：
+
+```bash
+./preview.sh week-01/lines.aseprite        # 默认 8x 放大
+./preview.sh week-01/lines.aseprite 4      # 自定放大倍数
+# 输出：week-01/lines-preview.png（已加入 .gitignore，不提交）
+```
+
+拿到 PNG 后再进行图片分析。
+
+## 图片分析
 
 - 对比临摹作品与参考原作，给出像素级具体反馈（如"第 3 行第 7 列的 AA 像素颜色偏深"）。
 - 识别常见问题：锯齿不均匀、调色板超限、光源方向不一致、比例失调等。
