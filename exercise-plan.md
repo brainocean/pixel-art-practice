@@ -30,11 +30,11 @@
 | 天 | 任务 | 画布 | 参考来源 |
 |----|------|------|----------|
 | 1 | 练习：画 10 条不同角度的斜线，检查锯齿是否均匀 | 64×64 | 无需参考，纯练手 |
-| 2 | 临摹：**心形、星星、钻石**（各 1 个） | 16×16 | [Lospec Gallery — icon](https://lospec.com/gallery?q=icon) |
-| 3 | 临摹：**苹果、蘑菇、树**（各 1 个） | 16×16 | [Lospec Gallery — food/nature](https://lospec.com/gallery) |
+| 2 | 临摹：**心形、星星、钻石**（各 1 个） | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
+| 3 | 临摹：**苹果、蘑菇、树**（各 1 个） | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
 | 4 | 临摹：**Game Boy 版超级马里奥** 静止帧 | 16×16 | [Spriters Resource — GB Mario](https://www.spriters-resource.com/game_boy_gbc/supermarioland/) |
 | 5 | 临摹：**Game Boy 版 Kirby** 静止帧 | 16×16 | [Spriters Resource — GB Kirby](https://www.spriters-resource.com/game_boy_gbc/kirbys_dream_land/) |
-| 6–7 | 自由练习：选 5 个你喜欢的 1-bit 图标临摹 | 16×16 | [Lospec Gallery — 1bit](https://lospec.com/gallery?tag=1bit) |
+| 6–7 | 自由练习：选 5 个你喜欢的 1-bit 图标临摹 | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
 
 ### 第 2 周：AA + 调色板入门
 
@@ -42,7 +42,7 @@
 
 | 天 | 任务 | 画布 | 参考来源 |
 |----|------|------|----------|
-| 1 | 练习：临摹一颗宝石，手动给边缘加 AA 像素 | 16×16 | [Lospec Gallery — gem](https://lospec.com/gallery?q=gem) |
+| 1 | 练习：临摹一颗宝石，手动给边缘加 AA 像素 | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
 | 2 | 临摹：**NES 版塞尔达** 道具图标（宝剑、盾、药水） | 16×16 | [Spriters Resource — NES Zelda](https://www.spriters-resource.com/nes/legendofzelda/) |
 | 3 | 临摹：**NES 版洛克人** 静止帧 | 16×16 | [Spriters Resource — NES Mega Man](https://www.spriters-resource.com/nes/megaman/) |
 | 4–5 | 临摹：**PixelJoint 16×16 高分作品** × 3 | 16×16 | [PixelJoint — 筛选 max 16px](http://pixeljoint.com/pixels/new_icons.asp) |
