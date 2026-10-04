@@ -32,8 +32,8 @@
 | 1 | 练习：画 10 条不同角度的斜线，检查锯齿是否均匀 | 64×64 | 无需参考，纯练手 |
 | 2 | 临摹：**心形、星星、钻石**（各 1 个） | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
 | 3 | 临摹：**苹果、蘑菇、树**（各 1 个） | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
-| 4 | 临摹：**Game Boy 版超级马里奥** 静止帧 | 16×16 | [Spriters Resource — GB Mario](https://www.spriters-resource.com/game_boy_gbc/supermarioland/) |
-| 5 | 临摹：**Game Boy 版 Kirby** 静止帧 | 16×16 | [Spriters Resource — GB Kirby](https://www.spriters-resource.com/game_boy_gbc/kirbys_dream_land/) |
+| 4 | 临摹：**Game Boy 版超级马里奥** 静止帧 | 16×16 | [Spriters Resource — GB Mario](https://www.spriters-resource.com/game_boy_gbc/sml/) |
+| 5 | 临摹：**Game Boy 版 Kirby** 静止帧 | 16×16 | [Spriters Resource — GB Kirby](https://www.spriters-resource.com/game_boy_gbc/kirbydl/) |
 | 6–7 | 自由练习：选 5 个你喜欢的 1-bit 图标临摹 | 16×16 | [PixelJoint — max 16px 高分](http://pixeljoint.com/pixels/new_icons.asp?ob=score&s=5&maxdim=16) |
 
 ### 第 2 周：AA + 调色板入门
